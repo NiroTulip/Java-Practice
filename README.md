@@ -1,1 +1,1 @@
-Redirector allows you to generate URL redirects in PHP code. The redirector accepts as input a CSV file Input.csv with a list of original and destination URLs and generates a redirect as short PHP code for each pair of URLs.
+Redirector allows you to generate URL redirects in PHP code. The redirector accepts as input a CSV file Input.csv with a list of original and destination URLs and generates the redirect as short PHP code for each pair of URLs.
